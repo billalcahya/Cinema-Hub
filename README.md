@@ -1,2 +1,1 @@
-# My Project
-# Cinema-Hub
+# Cinema Hub
