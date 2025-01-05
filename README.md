@@ -2,6 +2,14 @@
 
 CinemaHub is a movie booking and rating application that allows users to explore movies, check their ratings, and book tickets directly through the app. The app leverages a **RecyclerView** to display a list of movies with their respective ratings. By clicking on a movie, users can view detailed information and rate the film.
 
+## Screenshots
+
+### Login Page
+![Movie List](screenshots/login.jpeg)
+
+### Home Screen
+![Movie Detail](screenshots/home.jpeg)
+
 ## Features
 
 - **Movie List**: Displays a list of movies using a `RecyclerView`.
