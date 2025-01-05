@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">CinemaHub</string>
+
+    <string name="film_name">Judul Film</string>
+    <string name="description">Deskripsi Film</string>
+    <string name="more_info">More Info</string>
+    <string name="app_logo">App Logo</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="film_rating">Rating Film</string>
+    <string name="rating_film">10/10</string>
+    <string name="Genre">Genre</string>
+    <string name="Genre_film">Comedy , Dark</string>
+    <string name="booking">Book Now</string>
+    <string name="user_review">User Reviews</string>
+
+    <string-array name="data_name">
+        <item>Deadpool And Wolferine</item>
+        <item>Despicable Me 4</item>
+        <item>Flow</item>
+        <item>Inside Out 2</item>
+        <item>Moana 2</item>
+        <item>Mufasa the Lion King</item>
+        <item>Solo Leveling</item>
+        <item>Sonic</item>
+        <item>Sonic 3</item>
+        <item>The Lion</item>
+        <item>Transformer One</item>
+        <item>Venom Last Dance</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Deadpool and Wolverine menghadirkan kisah penuh aksi dan humor yang menggambarkan bagaimana dua pahlawan yang sangat berbeda harus bersatu melawan musuh bersama, dengan gaya khas mereka yang brutal dan kocak.</item>
+        <item>Despicable Me 4 membawa kita kembali ke dunia Gru dan Minions dalam misi penuh kekacauan, saat mereka harus menghadapi tantangan baru yang melibatkan keluarga, teman, dan musuh yang tak terduga.</item>
+        <item>Flow adalah film drama yang menggugah, mengikuti perjalanan seorang seniman muda yang mencoba menemukan dirinya sendiri melalui berbagai rintangan emosional dan tantangan dalam dunia seni yang keras.</item>
+        <item>Inside Out 2 mengisahkan petualangan emosi Riley yang kini berhadapan dengan tantangan kehidupan remaja, termasuk perubahan baru dalam dunianya yang membawa rasa, tawa, dan air mata.</item>
+        <item>Moana 2 kembali membawa kita ke dunia petualangan laut, saat Moana berlayar ke wilayah baru yang misterius untuk melindungi rumahnya dan mengungkap rahasia tentang masa lalunya yang tersembunyi.</item>
+        <item>Mufasa the Lion King menceritakan perjalanan epik masa muda Mufasa, dari awal yang penuh tantangan hingga menjadi raja yang dihormati, dengan pelajaran berharga tentang keberanian dan pengorbanan.</item>
+        <item>Solo Leveling adalah adaptasi spektakuler dari webtoon populer yang menceritakan Jinwoo, seorang hunter kelas rendah yang berubah menjadi pahlawan terkuat setelah mendapatkan kekuatan misterius dari dunia lain.</item>
+        <item>Sonic membawa kita dalam petualangan cepat dan seru bersama landak biru favorit, saat ia menghadapi musuh baru dan lama dengan gaya humor dan aksi khasnya.</item>
+        <item>Sonic 3 melanjutkan petualangan Sonic, kini dengan ancaman yang lebih besar dan sekutu baru yang ikonik, menciptakan petualangan yang lebih menegangkan dan penuh aksi.</item>
+        <item>The Lion adalah kisah dramatis tentang seekor singa muda yang harus menghadapi tantangan berat di alam liar, belajar tentang keberanian, kehilangan, dan arti sebenarnya dari kebebasan.</item>
+        <item>Transformer One mengeksplorasi asal-usul Autobots dan Decepticons, membawa kita ke awal perang epik mereka yang penuh aksi dan intrik antar galaksi.</item>
+        <item>Venom Last Dance adalah bab terakhir dalam saga Venom, mengisahkan perjuangannya untuk menemukan tempatnya di dunia sambil menghadapi musuh yang paling kuat dan tantangan pribadi yang mendalam.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/deadpool</item>
+        <item>@drawable/despicableme4</item>
+        <item>@drawable/flow</item>
+        <item>@drawable/insideout2</item>
+        <item>@drawable/moana2</item>,
+        <item>@drawable/mufasathelionking</item>
+        <item>@drawable/sololeveling</item>
+        <item>@drawable/sonic</item>
+        <item>@drawable/sonic3</item>
+        <item>@drawable/thelion</item>
+        <item>@drawable/transformerone</item>
+        <item>@drawable/venomlastdance</item>
+    </integer-array>
+
+    <string-array name="data_sinopsis">
+        <item>Ketika Deadpool (Ryan Reynolds), anti-hero yang terkenal dengan humor sarkastik dan regenerasi super, mendapati dirinya dalam masalah yang terlalu besar untuk ditangani sendiri, ia meminta bantuan Wolverine (Hugh Jackman). Meskipun Wolverine awalnya enggan, sebuah ancaman global yang mengincar mutan memaksa keduanya bekerja sama. Dengan latar belakang yang penuh aksi brutal, dialog lucu, dan cameo tak terduga, film ini menjanjikan momen epik antara dua karakter ikonik. Dalam perjalanan mereka, Deadpool dan Wolverine menghadapi musuh baru yang tak terduga serta mengungkap rahasia gelap dari organisasi bayangan.</item>
+        <item>Gru (Steve Carell) kembali beraksi sebagai penjahat yang mencoba bertobat. Kali ini, ia menghadapi ancaman dari musuh misterius yang ingin menguasai dunia dengan senjata baru yang mematikan. Dalam upayanya untuk menghentikan musuh tersebut, Gru harus menghadapi dilema keluarga, termasuk mengasuh ketiga putrinya, mencegah Minion menciptakan kekacauan, dan menjaga hubungan dengan saudara kembarnya, Dru. Film ini penuh dengan humor khas Minion, pesan tentang pentingnya keluarga, dan aksi yang menghibur untuk semua usia.</item>
+        <item>Seorang penari muda bernama Mia, yang bermimpi tampil di panggung internasional, harus menghadapi dunia yang penuh tantangan. Setelah mengalami cedera serius yang hampir menghentikan kariernya, Mia bertemu dengan mentor yang membantunya bangkit dan menemukan kembali semangatnya. Di tengah perjalanan ini, Mia juga menjalin hubungan emosional dengan seorang musisi jalanan yang memiliki mimpi serupa. Dengan alur yang emosional dan koreografi tari yang memukau, Flow menggambarkan pentingnya ketekunan, persahabatan, dan menemukan jati diri.</item>
+        <item>Setelah sukses besar dengan film pertama, Inside Out 2 membawa penonton kembali ke dalam pikiran Riley yang kini menghadapi tantangan remaja seperti tekanan teman sebaya, cinta pertama, dan konflik dengan orang tua. Joy, Sadness, Anger, Fear, dan Disgust kembali mengendalikan markas besar di otaknya, tetapi kali ini mereka menghadapi emosi baru seperti Curiosity dan Anxiety. Film ini memperlihatkan bagaimana Riley belajar mengatasi perubahan hidup yang tak terduga dengan bantuan emosinya.</item>
+        <item>Sebagai kepala desa, Moana kini menghadapi tanggung jawab besar untuk melindungi pulau dan rakyatnya. Ketika perubahan iklim mulai mengancam ekosistem laut dan kehidupan di Motunui, Moana memutuskan untuk kembali ke lautan. Dalam petualangannya, ia bertemu makhluk mitologi baru, suku-suku yang terlupakan, dan menghadapi keputusan besar yang akan mengubah masa depan pulau tersebut. Film ini menonjolkan pesan tentang keberanian, kerja sama, dan cinta terhadap alam.</item>
+        <item>Film ini adalah prekuel dari The Lion King yang mengisahkan kehidupan muda Mufasa. Berasal dari latar belakang yang sederhana dan penuh tantangan, Mufasa harus membuktikan dirinya layak menjadi raja. Dalam perjalanan menuju takdirnya, ia membentuk hubungan erat dengan sahabat setia dan menghadapi musuh yang ingin merebut kekuasaan. Kisah ini menjelaskan nilai-nilai kepemimpinan, pengorbanan, dan cinta yang membentuk kepribadian Mufasa.</item>
+        <item>Berdasarkan webtoon populer, Solo Leveling menceritakan perjalanan Sung Jin-Woo, seorang pemburu yang dikenal sebagai yang terlemah dalam guild-nya. Setelah sebuah insiden di dungeon yang mematikan, Jin-Woo memperoleh kekuatan unik sebagai seorang "Player." Kini, ia dapat meningkatkan kekuatannya tanpa batas, menjadikannya pemburu terkuat. Sementara ia menghadapi monster-monster berbahaya dan bos dungeon, Jin-Woo juga mengungkap misteri dunia baru yang mengubah takdir umat manusia.</item>
+        <item>Petualangan baru Sonic dimulai ketika Dr. Robotnik kembali dengan senjata andalan yang dibantu oleh Shadow, landak hitam misterius yang memiliki dendam pribadi terhadap Sonic. Bersama Tails dan Knuckles, Sonic harus menghadapi serangkaian tantangan dan teka-teki untuk menyelamatkan dunia. Film ini menampilkan aksi cepat, humor khas, dan momen emosional yang mengajarkan pentingnya persahabatan dan keberanian.</item>
+        <item>Transformers One adalah film prekuel yang mengeksplorasi asal-usul konflik antara Autobots dan Decepticons di planet Cybertron. Optimus Prime dan Megatron, yang awalnya bersahabat, mengalami perpecahan karena perbedaan pandangan mengenai masa depan Cybertron. Dengan latar belakang perang yang epik dan visual spektakuler, film ini menggambarkan awal mula kejatuhan Cybertron dan pengorbanan Autobots untuk melarikan diri ke Bumi.</item>
+        <item>Eddie Brock dan Venom menghadapi ancaman terbesar mereka ketika symbiote baru yang lebih kuat dan berbahaya muncul untuk mengambil alih dunia. Dalam perjalanan mereka, Eddie harus membuat keputusan sulit yang akan menentukan nasibnya sebagai host Venom. Film ini menawarkan adegan aksi menegangkan, cerita yang emosional, dan eksplorasi mendalam tentang hubungan antara Eddie dan symbiote-nya.</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>Rating IMDb: 8.7/10 Pendapatan Box Office: $1.338.073.645</item>
+        <item>Rating IMDb: 7.2/10 Pendapatan Box Office: $969.126.452</item>
+        <item>Rating IMDb: 8.1/10 Pendapatan Box Office: $1.698.765.616</item>
+        <item>Rating IMDb: 7.8/10 Pendapatan Box Office: $832.544.785</item>
+        <item>Rating IMDb: 7.5/10 Pendapatan Box Office: $221.783.537</item>
+        <item>Rating IMDb: 6.5/10 Pendapatan Box Office: $319.715.683</item>
+        <item>Rating IMDb: 6.8/10 Pendapatan Box Office: $159.552.146</item>
+        <item>Rating IMDb: 6.9/10 Pendapatan Box Office: $129.364.141</item>
+        <item>Rating IMDb: 6.4/10 Pendapatan Box Office: $476.391.878</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Comedy, Superhero</item>
+        <item>Animation, Adventure, Comedy, Family</item>
+        <item>Drama, Music</item>
+        <item>Animation, Adventure, Comedy, Family</item>
+        <item>Animation, Adventure, Family, Fantasy</item>
+        <item>Animation, Adventure, Drama, Family</item>
+        <item>Action, Adventure, Fantasy, Superhero</item>
+        <item>Action, Adventure, Comedy, Family</item>
+        <item>Action, Adventure, Comedy, Family</item>
+        <item>Animation, Adventure, Drama, Family</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi, Superhero</item>
+    </string-array>
+
+</resources>
