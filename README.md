@@ -5,10 +5,16 @@ CinemaHub is a movie booking and rating application that allows users to explore
 ## Screenshots
 
 ### Login Page
-![Movie List](screenshots/login.jpeg)
+![Movie Login](screenshots/login.jpeg)
 
 ### Home Screen
-![Movie Detail](screenshots/home.jpeg)
+![Movie Home](screenshots/home.jpeg)
+
+### Detail Profile
+![Profile Home](screenshots/profile.jpeg)
+
+### Detail Movie
+![Detail movie](screenshots/detail.jpeg)
 
 ## Features
 
