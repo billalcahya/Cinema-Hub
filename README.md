@@ -33,7 +33,7 @@ CinemaHub is a movie booking and rating application that allows users to explore
 
 - **Admin Login**: Admin can log in using the following credentials:
   - **Username**: `admin`
-  - **Password**: `admin`
+  - **Password**: `password`
   
 - **RecyclerView**: The `RecyclerView` in the app displays a list of movies. Each movie item includes the title, description, and rating.
   
